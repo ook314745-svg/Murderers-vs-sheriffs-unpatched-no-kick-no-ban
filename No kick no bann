@@ -4,6 +4,7 @@ script_key = "trial"
 
 loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/a7dbe5e5bcd46a1f8c4511bd6f95e9b3b8c1b89a59aa7c7324b40ff829ce0ff8.lua"))()
 end)
+wait(3.1)
 task.spawn(function()
 -- open source script ( no anti cheat Bypass if you skid this you will get insta kick from the map u need to deobf my anti cheat Bypass first to skid nigger)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ook314745-svg/mvsv2/refs/heads/main/murders%20vs%20sheriff.txt"))()
